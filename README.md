@@ -15,3 +15,5 @@ Simple Interest = (1000 × 5 × 2) / 100 = 100
 ## Description
 
 This is a basic calculator used to compute simple interest for educational purposes.
+
+This is a typo fix branch.
